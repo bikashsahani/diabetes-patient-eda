@@ -14,12 +14,10 @@ data cleaning, statistical analysis, and visualization to identify key diabetes 
 ## Key Findings
 1. Glucose is the strongest predictor of diabetes with a correlation 
    of 0.49 with Outcome
-2. Nearly 49% of Insulin values were hidden as impossible zero values 
-   — discovered and handled through median imputation
-3. Patients in the diabetic glucose range (126+) had a 70%+ diabetes rate
-4. Senior patients (46+) showed significantly higher diabetes rates 
+2. Patients in the diabetic glucose range (126+) had a 70%+ diabetes rate
+3. Senior patients (46+) showed significantly higher diabetes rates 
    than younger age groups
-5. Obese patients (BMI 30+) had the highest diabetes rate across all 
+4. Obese patients (BMI 30+) had the highest diabetes rate across all 
    BMI categories
 
 ## Data Quality Issues Found
